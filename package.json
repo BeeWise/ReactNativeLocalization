@@ -29,6 +29,8 @@
     "android",
     "ios",
     "windows",
+    "Package.swift",
+    "react-native-spm-prefix.h",
     "ReactNativeLocalization.podspec",
     "CHANGELOG.md",
     "LICENSE",
