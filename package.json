@@ -90,5 +90,8 @@
   },
   "engines": {
     "node": ">=20.19.0"
+  },
+  "swiftpmConfig": {
+    "name": "ReactNativeLocalization"
   }
 }
